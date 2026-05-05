@@ -27,3 +27,6 @@
 ## Next Plan
 - Complete remaining queries (36–65)
 - Practice JOIN and Nested queries
+## Progress
+- Completed queries 1–35
+- Remaining queries will be completed next
